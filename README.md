@@ -1,3 +1,11 @@
+# Image
+![image](https://user-images.githubusercontent.com/79642065/201917117-6c0f6e3a-f935-47a5-bf08-c1f6cd315e62.png)
+
+# Description 
+A responsive “Contacts” application that allows the user to browse their contacts by using React. This task is a much simpler version of my Google books Api, where I'm fetching the names of 10 contacts in my application. My first iteration was here, I restarted because I wanted to try and understand how to fetch values from an API using async/await for the request code.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
