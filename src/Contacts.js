@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import "./Resonate2.css";
+import "./Contacts.css";
 import axios from "axios";
 
 function App() {

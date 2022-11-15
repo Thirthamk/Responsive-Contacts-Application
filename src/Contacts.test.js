@@ -1,5 +1,5 @@
 import { render, screen } from "@testing-library/react";
-import App from "./Resonate2";
+import App from "./Contacts";
 
 test("renders learn react link", () => {
     render(<App />);
