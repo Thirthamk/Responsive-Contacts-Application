@@ -2,8 +2,7 @@
 ![image](https://user-images.githubusercontent.com/79642065/201917117-6c0f6e3a-f935-47a5-bf08-c1f6cd315e62.png)
 
 # Description 
-A responsive “Contacts” application that allows the user to browse their contacts by using React. This task is a much simpler version of my Google books Api, where I'm fetching the names of 10 contacts in my application. My first iteration was here, I restarted because I wanted to try and understand how to fetch values from an API using async/await for the request code.
-
+A responsive “Contacts” application that allows the user to browse their contacts by using React. This task is a much simpler version of my Google books Api, where I'm fetching the names of 10 contacts in my application. This is a first iteration to focus on responsive filters. I started here because I wanted to focus purely on this feature and try and understand how to fetch values from an API using async/await for the request code. This feature can also be integrated with my Google Books API.
 
 
 # Getting Started with Create React App
